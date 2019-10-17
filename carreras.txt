@@ -1,0 +1,15 @@
+Licenciatura en Diseno Industrial;Licenciado en Diseno Industrial;156156;71;67
+Licenciatura en Relaciones Internacionales;Licenciado en Relaciones Internacionales;137137;79;43
+Licenciatura en Enfermeria;Licenciado en Enfermeria;127127;81;27
+Licenciatura en Sistemas;Licenciado en Sistemas;256256;67;32
+Licenciatura en Economia Empresarial;Licenciado en Economia Empresarial;256256;63;41
+Licenciatura en Turismo;Licenciado en Turismo;256256;66;35
+Licenciatura en Audiovision;Licenciado en Audiovision;156156;70;68
+Licenciatura en Planificacion Logistica;Licenciado en Planificacion Logistica;256256;69;54
+Licenciatura en Ciencia Politica y Gobierno;Licenciado en Ciencia Politica y Gobierno;137137;76;41
+Licenciatura en Gestion Ambiental Urbana;Licenciado en Gestion Ambiental Urbana;256256;62;35
+Ciclo de Licenciatura en Musica de Camara y Sinfonica;Licenciado en Musica de Camara y Sinfonica;156156;74;27
+Licenciatura en Diseno y Comunicacion Visual;Licenciado en Diseno y Comunicacion Visual;156156;72;30
+Licenciatura y Ciclo de Licenciatura en Seguridad Ciudadana;Licenciado en Seguridad Ciudadana;137137;75;27
+Licenciatura en Ciencia y Tecnologia de los Alimentos;Licenciado en Ciencia y Tecnologia de los Alimentos;256256;65;66
+Traductorado Publico en Idioma Ingles;Traductor Publico en Idioma Ingles;156156;73;36

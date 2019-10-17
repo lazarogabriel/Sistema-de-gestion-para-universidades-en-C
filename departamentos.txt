@@ -1,0 +1,4 @@
+Salud Comunitaria;Descrpicion de Salud Comunitaria.;127127;1
+Desarrollo productivo y tecnologico;Descrpicion de Productivo y Tecnologico.;256256;6
+Humanidades y Arte;Descrpicion de Humanidades y Arte.;156156;5
+Planificacion y Politicas Publicas;Descrpicion de Planificacion y Politicas Publicas.;137137;3

@@ -1,0 +1,629 @@
+Ambiente I;534496;256256;62;5
+Principios de la Administracion;932456;256256;62;12
+Geografia Urbana;436647;256256;62;4
+Estadistica aplicada;399956;256256;62;15
+Tecnicas en Cartografia y Fotointerpretacion;667623;256256;62;5
+Fundamentos de Sociologia;655342;256256;62;12
+Ambiente II;874663;256256;62;12
+Fundamentos de Economia y Desarrollo Sustentable I;789289;256256;62;3
+Fundamentos de Ecologia;228322;256256;62;12
+Seminario: Sistemas urbanos metropolitanos;786632;256256;62;3
+Fundamentos de Economia y Desarrollo Sustentable II;687543;256256;62;5
+Negociacion y Mediacion;999497;256256;62;5
+Educacion Ambiental;768384;256256;62;12
+Ambiente III;493646;256256;62;12
+Procesos de evaluacion de impactos ambientales;467599;256256;62;12
+Seminario de gestion de procesos urbanos I;963793;256256;62;12
+Legislacion Ambiental;526584;256256;62;12
+Teledeteccion y Sistemas de Informacion Geografica;339836;256256;62;12
+Seminario de Politica Ambiental en Argentina y el MERCOSUR;797499;256256;62;12
+Seminario Auditoria ambiental;375247;256256;62;12
+Investigacion Urbana I;536926;256256;62;12
+Seminario de Practica Profesional;865265;256256;62;12
+Seminario de Gestion de Procesos Urbanos II;535629;256256;62;12
+Gestion Administrativa municipal ambiental;898965;256256;62;12
+Gestion Ambiental y Empresa;944349;256256;62;12
+Transporte y Transito Urbano;363655;256256;62;12
+Investigacion Urbana II;869832;256256;62;12
+Servicios Urbanos y Saneamiento;394348;256256;62;12
+Ambiente IV;325988;256256;62;12
+Seminario: Calidad Ambiental y Competitividad en el marco actual de la globalizacion;989937;256256;62;12
+Seminario de Gestion de Procesos Urbanos III;844799;256256;62;12
+Procesos de produccion del habitat;674684;256256;62;12
+Seminario: la evolucion del movimiento ambiental hasta la Agenda 21 local;486787;256256;62;12
+Financiacion y Evaluacion de Proyectos;393772;256256;62;12
+Seminario Taller de Gestion de Proyectos Urbano Ambientales;649555;256256;62;12
+Microeconomia;272576;256256;63;12
+Contabilidad;437625;256256;63;12
+Historia economica contemporanea;547697;256256;63;12
+Introduccion a la Matematica;464882;256256;63;12
+Economia y Sociedad;534792;256256;63;5
+Organizacion y Gestion;747643;256256;63;5
+Macroeconomia;332966;256256;63;12
+Elementos de Matematica;539886;256256;63;5
+Nuevos Escenarios I;888967;256256;63;5
+Control de Gestion;927756;256256;63;12
+Organizacion de la Produccion y la Tecnologia I;775472;256256;63;5
+Macroeconomia y Politica Economica;843297;256256;63;12
+Elementos de Estadistica;436944;256256;63;12
+Calculo Financiero y Desarrollo Estadistico Aplicado;627859;256256;63;5
+Costos, Calidad y Competitividad;658269;256256;63;12
+Microeconomia y Gestion de Empresa;433983;256256;63;5
+Etica y Empresa;362368;256256;63;12
+Instituciones del Derecho I;298342;256256;63;12
+Comercio Exterior y Economia Internacional;359429;256256;63;5
+Formulacion y Evaluacion de Proyectos;768678;256256;63;12
+Problemas Actuales de la Economia Argentina;864748;256256;63;12
+Instituciones del Derecho II;536282;256256;63;12
+Sistemas de Organizacion;637234;256256;63;12
+Derecho Empresarial;563588;256256;63;12
+Economia Industrial;674585;256256;63;12
+Economia Bancaria y Financiera ;684447;256256;63;12
+Mencion Gestion de Empresa;445596;256256;63;12
+Comercializacion;454646;256256;63;12
+Administracion de los Recursos Humanos;767539;256256;63;12
+Planeamiento Estrategico y Toma de Decisiones;943996;256256;63;12
+Plan de Negocios;355393;256256;63;12
+Financiamiento;266774;256256;63;12
+Politicas y Estrategias para el Desarrollo Regional y Local;582756;256256;63;12
+Taller de Proyecto de Trabajo Final.;453895;256256;63;12
+Mencion Gestion de la Tecnologia;228347;256256;63;12
+Organizacion de la produccion y la tecnologia II;339995;256256;63;12
+Investigacion y desarrollo;424652;256256;63;12
+Gestion de incubadoras de base tecnologica;372866;256256;63;12
+Sistemas tecnologicos;842965;256256;63;12
+Gestion de la produccion;948635;256256;63;12
+Normas internacionales en tecnologia;369867;256256;63;12
+Matematica I;836499;256256;65;12
+Quimica General;472498;256256;65;12
+Fisica I;967466;256256;65;12
+Biologia;846977;256256;65;12
+Matematica II;285527;256256;65;12
+Quimica Inorganica;352645;256256;65;12
+Fisica II;326498;256256;65;12
+Anatomia y Fisiologia;473645;256256;65;12
+Microbiologia General;655345;256256;65;12
+Quimica Organica;987325;256256;65;12
+Matematica III;294825;256256;65;12
+Fisicoquimica y Biofisica;976965;256256;65;12
+Quimica Analitica;979867;256256;65;12
+Quimica Biologica;864849;256256;65;12
+Bromatologia I;277933;256256;65;12
+Industria y Tecnologia de los Alimentos I;262255;256256;65;12
+Microbiologia de Alimentos I;776945;256256;65;12
+Estadistica y Bioestadistica;762226;256256;65;12
+Bromatologia II;669856;256256;65;12
+Industria y Tecnologia de los Alimentos II;339853;256256;65;12
+Equipos e Instalaciones I;825783;256256;65;12
+Microbiologia de Alimentos II;485574;256256;65;12
+Toxicologia;278358;256256;65;12
+Bromatologia III;827439;256256;65;12
+Industria y Tecnologia de los Alimentos III;296475;256256;65;12
+Historia, Legislacion y Etica Profesional;572569;256256;65;12
+Practica Pre-profesional (Bromatologia);356364;256256;65;12
+Equipos e Instalaciones II;374379;256256;65;12
+Carga Horaria Total de la Tecnicatura: 2.540 horas.;527934;256256;65;12
+Tecnico Universitario en Produccion Alimentaria;539396;256256;65;12
+Matematica I;723477;256256;65;12
+Quimica General;684576;256256;65;12
+Fisica I;229382;256256;65;12
+Biologia;857934;256256;65;12
+Matematica II;722823;256256;65;12
+Quimica Inorganica;746774;256256;65;12
+Fisica II;763663;256256;65;12
+Anatomia y Fisiologia;735366;256256;65;12
+Microbiologia General;345578;256256;65;12
+Quimica Organica;738883;256256;65;12
+Matematica III;845928;256256;65;12
+Fisicoquimica y Biofisica;466985;256256;65;12
+Quimica Analitica;892737;256256;65;12
+Quimica Biologica ;469293;256256;65;12
+Bromatologia I;357456;256256;65;12
+Industria y Tecnologia de los Alimentos I;846798;256256;65;8
+Microbiologia de Alimentos I;594359;256256;65;12
+Estadistica y Bioestadistica;934898;256256;65;12
+Industria y Tecnologia de los Alimentos II;335744;256256;65;12
+Equipos e Instalaciones I;365865;256256;65;12
+Microbiologia de los Alimentos II;834965;256256;65;12
+Industria y Tecnologia de los Alimentos III;934887;256256;65;5
+Historia, Legislacion y Etica Profesional;562445;256256;65;5
+Practica Pre-profesional (Produccion Alimentaria);532469;256256;65;7
+Sistemas de Representacion;745334;256256;65;5
+Tecnologia Aplicada;259836;256256;65;5
+Equipos e Instalaciones II;799479;256256;65;8
+Conservacion y Empaque;242489;256256;65;12
+Instrumentacion y Automatizacion;669596;256256;65;4
+Industria y Tecnologia de los Alimentos IV;296539;256256;65;6
+Economia y Gestion Empresaria;932228;256256;65;6
+Formulacion de Proyectos Industriales;933442;256256;65;12
+Integracion de la Industria Alimentaria;544545;256256;65;6
+Industria Alimenticia y Medio Ambiente;324985;256256;65;12
+Industria y Tecnologia de los Alimentos V;853232;256256;65;6
+Educacion y Fiscalizacion;334386;256256;65;12
+Introduccion al Turismo;763789;256256;66;12
+Regimen Juridico de la Actividad Turistica I;942228;256256;66;12
+Economia y Sociedad;965874;256256;66;12
+Organizacion Economica y Productiva del Estado Argentino;823655;256256;66;12
+Regimen Juridico de la Actividad Turistica II;455789;256256;66;12
+Geografia y Patrimonio Turistico Americano y Argentino;889664;256256;66;12
+Organizacion y Gestion de la Empresa;256663;256256;66;12
+Servicios Turisticos I;392348;256256;66;12
+Geografia y Patrimonio Turistico Europeo;626282;256256;66;12
+Turismo Cultural 1;875599;256256;66;12
+Problematica del Turismo Grupal;684262;256256;66;12
+Servicios Turisticos II;745697;256256;66;12
+Marketing de Servicios y Marketing Turistico;887566;256256;66;12
+Regimen Tributario y Analisis Contable;276679;256256;66;12
+Investigacion Turistica;933542;256256;66;12
+Integracion y MERCOSUR;362577;256256;66;12
+Estadistica Aplicada;964936;256256;66;12
+Marketing de Ciudades;768253;256256;66;12
+Geografia y Patrimonio de Asia, Africa y Oceania;284259;256256;66;12
+Formulacion y Evaluacion de Proyectos;482883;256256;66;12
+Etica de la Empresa;785856;256256;66;12
+Orientacion en Administracion Hotelera;257292;256256;66;12
+Administracion y Organizacion Hotelera;967867;256256;66;12
+Patrimonio Turistico de Buenos Aires;672658;256256;66;12
+Organizacion de Eventos;696766;256256;66;12
+Calidad de Servicios;793296;256256;66;12
+Gestion de Alimentos y Bebidas;543494;256256;66;12
+Recursos Humanos;392525;256256;66;12
+Orientacion en Planificacion Turistica;667355;256256;66;12
+Planeamiento Estrategico y Toma de Decisiones;627763;256256;66;12
+Politica Turistica;362753;256256;66;12
+Turismo y Ecologia;799652;256256;66;12
+Turismo Cultural 2;975364;256256;66;12
+Planificacion Espacial de Actividades Turisticas;869343;256256;66;12
+Problematicas Turisticas Regionales;472844;256256;66;12
+Programacion de Computadoras;594267;256256;67;12
+Organizacion de Computadoras;225433;256256;67;12
+Arquitectura de Computadoras;944776;256256;67;12
+Matematica I;353695;256256;67;12
+Matematica II;388779;256256;67;12
+Expresion de Problemas y Algoritmos;893552;256256;67;12
+Introduccion al Pensamiento Cientifico;892667;256256;67;12
+Ingenieria de Software I;923399;256256;67;12
+Introduccion a las Bases de Datos;543444;256256;67;12
+Algoritmos y Estructuras de Datos;376323;256256;67;12
+Orientacion a Objetos I;275966;256256;67;12
+Programacion Concurrente;875596;256256;67;12
+Ingenieria de Software II;863253;256256;67;12
+Orientacion a Objetos II;997339;256256;67;12
+Sistemas y organizaciones;597849;256256;67;12
+Bases de Datos I;427634;256256;67;12
+Proyecto de Software;527578;256256;67;12
+Conceptos y Paradigmas de Lenguajes de Programacion;924682;256256;67;3
+Redes y comunicaciones;227997;256256;67;6
+Ingenieria de Software III;286764;256256;67;6
+Bases de Datos II;874929;256256;67;5
+Fundamentos de Teoria de la computacion;784548;256256;67;4
+Sistemas operativos;682529;256256;67;5
+Desarrollo de software en Sistemas Distribuidos;373765;256256;67;6
+Seminario de Lenguajes;935675;256256;67;3
+Introduccion a los Sistemas Operativos;594887;256256;67;4
+Matematica III;446883;256256;67;5
+Politica y Gestion Tecnologicas;843928;256256;67;5
+Aspectos legales y profesionales de informatica;282495;256256;67;5
+Nuevos Escenarios;324772;256256;67;5
+Optativa Area Ingenieria de Software y Bases de Datos;295848;256256;67;5
+Trabajo Final de la Licenciatura;546325;256256;67;5
+Regimen Juridico de las Organizaciones I;655654;256256;69;5
+Introduccion a la Administracion;437762;256256;69;5
+Pensamiento Logico- Matematico;452985;256256;69;5
+Macroeconomia;286365;256256;69;5
+Logistica I;562788;256256;69;5
+Organizacion Economica y Productiva del Estado I;385922;256256;69;5
+Nuevos Escenarios ;468699;256256;69;5
+Regimen Juridico de las Organizaciones II;224257;256256;69;5
+Logistica II;972267;256256;69;5
+Matematica I;588372;256256;69;5
+Segundo Ano;255484;256256;69;5
+Microeconomia;498636;256256;69;5
+Comercializacion I;479578;256256;69;5
+Logistica III;485737;256256;69;5
+Geografia Economica del MERCOSUR;527668;256256;69;5
+Servicios Publicos;473822;256256;69;5
+Negociacion y Etica;772728;256256;69;5
+Aspectos Generales del Transporte;899885;256256;69;5
+Estadistica;433489;256256;69;5
+Comercio Exterior;856553;256256;69;5
+Planeamiento estrategico y Toma de Decisiones;332542;256256;69;5
+Matematica II;377659;256256;69;5
+Comercializacion II;283868;256256;69;5
+Legislacion y Practica aduanera I;426423;256256;69;5
+Transporte Multimodal;347438;256256;69;5
+Logistica Inversa;848996;256256;69;5
+Transporte y Politicas Publicas;958947;256256;69;5
+Seguridad e Higiene;534696;256256;69;5
+Nuevas Tecnologias;986624;256256;69;5
+Costos y Presupuestos;775998;256256;69;5
+Formulacion y Evaluacion de Proyectos;539652;256256;69;5
+Planeamiento Estrategico del Territorio I;868932;256256;69;5
+Orientacion en Transporte y Distribucion;438323;256256;69;5
+Infraestructura y Servicios;472435;256256;69;5
+Relaciones Laborales;689229;256256;69;5
+Problematica del Transporte de carga;352272;256256;69;5
+Problematica del Transporte Aereo, Maritimo y Fluvial;624665;256256;69;5
+Tecnologia Aplicada a la Logistica;556785;256256;69;5
+Legislacion y Practica aduanera II;572333;256256;69;5
+Regulacion del Transporte Terrestre y la Aeronavegacion;765259;256256;69;5
+Seguridad y Gestion del Ambiente;468643;256256;69;5
+Logistica Comparada;367999;256256;69;5
+Problematica del Transporte de Pasajeros;283865;256256;69;5
+Orientacion en Organizaciones Publicas;225828;256256;69;5
+Organizacion Economica y Productiva del Estado II;584688;256256;69;3
+Integracion Regional;464496;256256;69;6
+Logistica de la Seguridad;559626;256256;69;6
+Finanzas Publicas;655544;256256;69;5
+Relaciones Laborales;766865;256256;69;3
+Control del Sector Publico;567989;256256;69;6
+Planeamiento Estrategico del Territorio II;297338;256256;69;4
+Compras y Contrataciones del Sector Publico;747629;256256;69;5
+Estrategias de Desarrollo;929457;256256;69;5
+Logistica de la Defensa;834485;256256;69;4
+Arte y Sociedad;498853;156156;70;4
+Elementos de Fisica y matematica;559539;156156;70;6
+Teoria de la comunicacion;826382;156156;70;6
+Orientacion Sonido;836925;156156;70;4
+Audioperceptiva;537874;156156;70;5
+Acustica;799599;156156;70;5
+Orientacion Postproduccion audiovisual;537374;156156;70;5
+Educacion auditiva;354296;156156;70;5
+Tecnologia de la imagen y el sonido;586639;156156;70;6
+Segundo Cuatrimestre;735546;156156;70;5
+Lenguaje audiovisual I;245366;156156;70;6
+Audicion y analisis musical I;828524;156156;70;4
+Tecnologia de la imagen y el sonido;254954;156156;70;3
+Orientacion Sonido;235258;156156;70;5
+Electronica (anual);899627;156156;70;3
+Orientacion Postproduccion audiovisual;775456;156156;70;3
+Montaje I (anual);338894;156156;70;3
+Estetica de las artes combinadas;693562;156156;70;4
+Orientacion Sonido;647639;156156;70;5
+Audicion y analisis musical II;375622;156156;70;4
+Audio I;725437;156156;70;4
+Organologia;838646;156156;70;3
+Electronica (anual);497672;156156;70;3
+Orientacion Postproduccion audiovisual;249773;156156;70;4
+Lenguaje audiovisual II;679773;156156;70;3
+Tecnologia de postproduccion I (anual);638965;156156;70;6
+Fotografia e iluminacion;447646;156156;70;4
+Montaje I (anual);737587;156156;70;3
+Edicion digital de sonido;968968;156156;70;100
+Orientacion Sonido;599882;156156;70;100
+Lenguaje musical;328278;156156;70;5
+Sistemas de grabacion I;643326;156156;70;100
+Audio II;788549;156156;70;100
+Taller de grabacion;549282;156156;70;4
+Orientacion Postproduccion audiovisual;257268;156156;70;100
+Diseno grafico;769526;156156;70;100
+Relato audiovisual;927474;156156;70;100
+Edicion digital de Video;645762;156156;70;18
+Tecnologia de postproduccion I (anual);342657;156156;70;3
+Sonorizacion de la imagen;434937;156156;70;4
+Orientacion Sonido;347867;156156;70;3
+Sistemas de amplificacion;637485;156156;70;5
+Sistemas de grabacion II;339578;156156;70;6
+Masterizacion y postproduccion;565296;156156;70;4
+Narrativa audiovisual;897927;156156;70;5
+Orientacion Postproduccion audiovisual;826968;156156;70;3
+Composicion digital;989564;156156;70;6
+Tecnologia de postproduccion II;542777;156156;70;5
+Animacion 3D;643572;156156;70;5
+Esteticas sonoras contemporaneas;437336;156156;70;6
+Epistemologia y Metodologia de Investigacion;274786;156156;70;4
+Comunicacion audiovisual;889645;156156;70;4
+Orientacion Sonido;934595;156156;70;4
+Taller de postproduccion de sonido para la imagen;227855;156156;70;4
+Audioanalisis;833395;156156;70;5
+Orientacion Postproduccion audiovisual;948482;156156;70;3
+Taller de Postproduccion de imagen;589987;156156;70;5
+Elementos de audio;467997;156156;70;4
+Ciclo de Licenciatura en Audiovision;239437;156156;70;4
+Historia y semiotica de los medios;827982;156156;70;4
+Realizacion integral audiovisual I;366674;156156;70;3
+Teoria de la Audiovision;285335;156156;70;4
+Generos y Estilos Audiovisuales;797593;156156;70;6
+Seminario de investigacion;442993;156156;70;4
+Empresa y mercado;742494;156156;70;3
+Etica y legislacion profesional;982595;156156;70;4
+Historia social y politica contemporanea;449629;156156;70;5
+Realizacion integral audiovisual II;748879;156156;70;3
+Tecnologia, materiales y procesos I;397855;156156;71;3
+Taller de Diseno Industrial I;749799;156156;71;5
+Sistemas de representacion I;483564;156156;71;4
+Elementos de Fisica, Matematica y Quimica I;846865;156156;71;6
+Tecnologia, materiales y procesos II;943933;156156;71;4
+Taller de Diseno Industrial II;666525;156156;71;3
+Morfologia del Diseno I;759675;156156;71;4
+Elementos de Fisica, Matematica y;949858;156156;71;3
+Quimica II;978288;156156;71;3
+Sistemas de representacion II;349983;156156;71;6
+Tecnologia, materiales y procesos III;622495;156156;71;6
+Historia Social General Contemporanea;336396;156156;71;3
+Morfologia del Diseno II;486536;156156;71;6
+Sistemas de Representacion Digital I;422997;156156;71;6
+Elementos de Fisica, Matematica y Quimica III;272297;156156;71;6
+Orientacion en Textil, prendas de vestir y del cuero;486992;156156;71;6
+A Taller de Diseno Industrial III Orientacion en Textil, prendas de vestir y del cuero;478552;156156;71;6
+Orientacion en Metales basicos y productos de metal;547865;156156;71;6
+Taller de Diseno Industrial III Orientacion en Metales basicos y productos de metal;884968;156156;71;4
+Orientacion en Maquinaria, equipos y vehiculos automotores;456668;156156;71;6
+Taller de Diseno Industrial III Orientacion en Maquinaria, equipos y vehiculos automotores;959625;156156;71;5
+Tecnologia, materiales y procesos IV;892878;156156;71;3
+Elementos de Economia;723938;156156;71;5
+Historia Social del Diseno I;754942;156156;71;3
+Sistemas de Representacion Digital II;493428;156156;71;5
+Orientacion en Textil, prendas de vestir y del cuero;697523;156156;71;3
+Taller de Diseno Industrial IV Orientacion en Textil, prendas de vestir y del cuero;256954;156156;71;3
+Orientacion en Metales basicos y productos de metal;726895;156156;71;5
+Taller de Diseno Industrial IV Orientacion en Metales basicos y productos de metal;944289;156156;71;4
+Orientacion en Maquinaria, equipos y vehiculos automotores;338452;156156;71;4
+Taller de Diseno Industrial IV Orientacion en Maquinaria, equipos y vehiculos automotores;595329;156156;71;4
+Tecnologia, materiales y procesos V;328326;156156;71;3
+Sistemas de Representacion Digital III;952658;156156;71;5
+Teoria y Metodologia del Diseno Industrial I;342324;156156;71;4
+Mercadotecnia;926997;156156;71;6
+Historia Social del Diseno II;933377;156156;71;4
+Orientacion en Textil, prendas de vestir y del cuero;685668;156156;71;5
+Taller de Diseno Industrial V Orientacion en Textil, prendas de vestir y del cuero;333353;156156;71;6
+Orientacion en Metales basicos y productos de metal;645829;156156;71;6
+Taller de Diseno Industrial V Orientacion en Metales basicos y productos de metal;272679;156156;71;4
+Orientacion en Maquinaria, equipos y vehiculos automotores;945449;156156;71;4
+Taller de Diseno Industrial V Orientacion en Maquinaria, equipos y vehiculos automotores;957237;156156;71;4
+Tecnologia, materiales y procesos VI;629633;156156;71;6
+Teoria y Metodologia del Diseno Industrial II;985799;156156;71;3
+Orientacion en Indumentaria;962868;156156;71;3
+Taller de Diseno Industrial VI Orientacion en Indumentaria;939376;156156;71;3
+Orientacion en Maquinas y herramientas;994796;156156;71;5
+Taller de Diseno Industrial VI Orientacion en Maquinas y herramientas;333869;156156;71;6
+Orientacion en Transportes;523736;156156;71;6
+Taller de Diseno Industrial VI Orientacion en Transportes;256437;156156;71;6
+Tecnologia, materiales y procesos VII;356746;156156;71;3
+Etica y Legislacion Profesional;857289;156156;71;4
+Epistemologia y Metodologia de la Investigacion;723365;156156;71;3
+Orientacion en Indumentaria;346335;156156;71;6
+A Taller de Diseno Industrial VII Orientacion en Indumentaria;443724;156156;71;5
+Orientacion en Maquinas y herramientas;858377;156156;71;4
+Taller de Diseno Industrial VII Orientacion en Maquinas y herramientas;884432;156156;71;6
+Orientacion en Transportes;543598;156156;71;5
+Taller de Diseno Industrial VII Orientacion en Transportes;958852;156156;71;4
+Tecnologia, materiales y procesos VIII;333682;156156;71;5
+Seminario de Investigacion;265334;156156;71;6
+Orientacion en Indumentaria;887425;156156;71;3
+Taller de Diseno Industrial VIII Orientacion en Indumentaria;695568;156156;71;4
+Orientacion en Maquinas y herramientas;893799;156156;71;6
+Taller de Diseno Industrial VIII Orientacion en Maquinas y herramientas;356482;156156;71;3
+Orientacion en Transportes;982546;156156;71;6
+Taller de Diseno Industrial VIII Orientacion en Transportes;654875;156156;71;4
+Diseno I;568947;156156;72;3
+Espacio tipografico I;483693;156156;72;4
+Sistemas graficos.;925596;156156;72;5
+Medios expresivos I.;478837;156156;72;3
+Diseno de objetos.;899823;156156;72;4
+Teoria del diseno I.;352976;156156;72;4
+Historia Social General Contemporanea.;728825;156156;72;4
+Diseno II.;787348;156156;72;3
+Espacio tipografico II.;295968;156156;72;5
+Historia del diseno I.;957252;156156;72;3
+Medios expresivos II.;267255;156156;72;6
+Computacion I.;429447;156156;72;5
+Tecnologia I.;649664;156156;72;6
+Metodologia de la investigacion.;653626;156156;72;6
+Diseno III.;858384;156156;72;5
+Espacio tipografico III.;885892;156156;72;3
+Medios expresivos III.;777437;156156;72;3
+Historia del diseno II.;636459;156156;72;6
+Fotografia.;449356;156156;72;5
+Computacion II.;343593;156156;72;5
+Tecnologia II.;777228;156156;72;5
+Seminario de investigacion;837743;156156;72;5
+Diseno IV;829682;156156;72;4
+Computacion III;655676;156156;72;5
+Video;632387;156156;72;4
+Teoria del diseno II;769275;156156;72;3
+Semiologia.;866582;156156;72;3
+Comunicacion;865722;156156;72;3
+Etica y aspectos legales de la profesion.;734725;156156;72;5
+Taller de Trabajo Final. ;469847;156156;72;4
+Lengua Inglesa I;666458;156156;73;4
+Gramatica Inglesa I;472598;156156;73;6
+Lengua Espanola I;257638;156156;73;5
+Principios Basicos de la Traduccion;278773;156156;73;3
+Lengua Inglesa II 1;999335;156156;73;5
+Gramatica Inglesa II 2;733996;156156;73;6
+Lengua Espanola II 3;483345;156156;73;4
+Traduccion Tecnica I;747489;156156;73;5
+Historia Social General Contemporanea;399399;156156;73;5
+Lengua Inglesa III 5;774482;156156;73;5
+Traduccion Tecnica II 8;384232;156156;73;6
+Historia y Cultura Inglesa I;634636;156156;73;3
+Fonetica Inglesa;643872;156156;73;6
+Lengua Inglesa IV 10;756732;156156;73;4
+Traduccion Tecnica III 11 ;288637;156156;73;3
+Principios generales de Economia y Finanzas;478238;156156;73;5
+Fonetica y Diccion 13;545499;156156;73;4
+Derecho Constitucional y Administrativo;569337;156156;73;4
+Lengua Especializada I;699983;156156;73;4
+Traduccion Legal I 16;825863;156156;73;6
+Literatura de los Paises de Habla Inglesa I;257855;156156;73;5
+Elementos de Derecho Civil y Comercia;253795;156156;73;5
+Lengua Especializada II 19;357826;156156;73;5
+Traduccion Legal II 18 y 20;534934;156156;73;5
+Historia y Cultura Inglesa II 9 y 12;488836;156156;73;5
+Etica, Ciudadania y Ejercicio Profesional;734642;156156;73;6
+Epistemologia y Metodologia de la Investigacion;582827;156156;73;6
+Lengua Especializada III 23;396755;156156;73;6
+Traduccion Legal III 24;294468;156156;73;6
+Elementos de Derecho Procesal;897539;156156;73;3
+Derecho Comparado;877965;156156;73;6
+Literatura de los Paises de Habla Inglesa II 21;983574;156156;73;3
+Traduccion Legal IV 29;755379;156156;73;5
+Estructuras Comparadas 6, 7 y 14;642988;156156;73;4
+Regimen Legal de la Traduccion y del Traductor 18;465653;156156;73;4
+Seminario de Investigacion 27;433735;156156;73;5
+Estudio Orquestal I;379352;156156;74;5
+Practica Orquestal II;682848;156156;74;5
+Musica de Camara I ;237282;156156;74;3
+Repertorio y Apreciacion de la Musica I;274977;156156;74;5
+Analisis Musical I;993539;156156;74;6
+Historia del Arte;488884;156156;74;5
+Seminario: Musica, Sociedad y Desarrollo Humano;967685;156156;74;3
+Estudio Orquestal II;362985;156156;74;6
+Practica Orquestal II;725275;156156;74;3
+Musica de Camara II;484554;156156;74;3
+Repertorio y Apreciacion de la Musica Sinfonica IV;993424;156156;74;5
+Acustica e Instrumentacion;957875;156156;74;6
+Filosofia;592958;156156;74;3
+Taller de Musica Latinoamericana y Ciudadana de Bueno Aires;298764;156156;74;5
+Estudio Orquestal III;674992;156156;74;4
+Practica Orquestal III;536234;156156;74;4
+Musica de Camara III;282948;156156;74;4
+Repertorio y Apreciacion de la Musica Sinfonica III;962958;156156;74;4
+Analisis Musical II;593688;156156;74;4
+Sociologia del Arte;335449;156156;74;6
+Estudio Orquestal IV;277624;156156;74;3
+Practica Orquestal IV;397876;156156;74;6
+Repertorio y Apreciacion de la Musica Sinfonica IV;297748;156156;74;3
+Sistema de Grabacion y Amplificacion;963762;156156;74;6
+Estetica;847227;156156;74;4
+Seminario de Tesis;487546;156156;74;6
+Taller de Musica Contemporanea;962878;156156;74;4
+Derechos Humanos y Seguridad Ciudadana;287366;137137;76;3
+Historia Social General;549244;137137;76;5
+Teoria de las Organizaciones y Analisis Institucional;444379;137137;76;4
+Metodos de Resolucion Alternativas de Conflictos (Seminario);999876;137137;76;6
+Derecho Penal y Seguridad Ciudadana;998954;137137;76;4
+Historia Social y Analisis de la Sociedad Argentina;339443;137137;76;5
+Estado, Gobierno y Sociedad;626944;137137;76;3
+Seguridad y Comunidad Social (Seminario) ;546744;137137;76;6
+Derecho Procesal Penal;377524;137137;76;4
+Historia Social de las Instituciones de Seguridad;342796;137137;76;5
+Ciudadania, Control y Conflicto Social;424984;137137;76;5
+Elementos de Estadisticas y Demografia;287439;137137;76;6
+Criminologia y Criminalistica;534923;137137;76;6
+Politicas Publicas y Planificacion en Seguridad;857638;137137;76;4
+Metodologia de la Investigacion Social Aplicada a la Seguridad;285348;137137;76;6
+Seminario Optativa 1;638478;137137;76;6
+Legislacion y Normatividad en Seguridad Ciudadana;782262;137137;76;6
+Diseno, Planificacion y Evaluacion de Programas Sociales;842423;137137;76;3
+Politicas de Formacion y Capacitacion en Seguridad;658852;137137;76;4
+Metodos y Tecnicas de Trabajo;438322;137137;76;4
+Seminario Optativo 2;352932;137137;76;4
+Practica Pre-Profesional;878674;137137;76;3
+Teoria Politica I;743962;137137;75;5
+Economia I;245572;137137;75;5
+Instituciones del Derecho;626833;137137;75;5
+Sociologia Politica;366977;137137;75;3
+Historia Moderna y Contemporanea;358255;137137;75;5
+Politica Internacional;364359;137137;75;6
+Teoria Politica II;527226;137137;75;6
+Economia II;745427;137137;75;5
+Derecho Constitucional;673482;137137;75;3
+Derechos Humanos;526288;137137;75;4
+Economia Internacional;942729;137137;75;5
+Teoria de las Organizaciones;835579;137137;75;4
+Historia Politica y Social Latinoamericana;259932;137137;75;6
+Teoria Politica Contemporanea y Politicas Publicas;992545;137137;75;6
+Economia de Gobierno;945264;137137;75;6
+Metodologia de la Investigacion I;735488;137137;75;6
+Gobierno Local;367479;137137;75;4
+Analisis Politico de Opinion Publica;522252;137137;75;4
+Administracion Publica;423344;137137;75;6
+Analisis de la Sociedad Argentina;334339;137137;75;5
+Politicas Publicas;937639;137137;75;6
+Metodologia de la Investigacion II;982969;137137;75;3
+Formulacion y Evaluacion de Proyectos;436284;137137;75;5
+Seminarios Optativos;777863;137137;75;3
+Practica Pre Profesional;752753;137137;75;6
+Taller de Tesina;629842;137137;75;4
+Derecho Administrativo ;368474;137137;75;6
+Las instituciones educativas: perspectivas teoricas para su estudio;457988;137137;76;6
+Historia de la Educacion;455366;137137;76;4
+Politica, Estado y educacion;794674;137137;76;3
+Teoria de la ensenanza y el aprendizaje;245889;137137;76;5
+Filosofia social de la educacion;799294;137137;76;3
+Sociologia de la educacion;639695;137137;76;5
+Economia de la educacion;267498;137137;76;6
+Teoria de la educacion;974362;137137;76;5
+Curriculum, Diseno, Desarrollo y Evaluacion (*5);697787;137137;76;3
+Administracion y gestion I;873867;137137;76;5
+Investigacion en Ciencias Sociales;448555;137137;76;3
+Administracion y gestion II (*11);532755;137137;76;6
+Teoria y practica de la investigacion etnografica y de la investigacion accion (*12);575949;137137;76;3
+Evaluacion y calidad de la educacion (*10);764629;137137;76;4
+Derechos humanos y Educacion;565856;137137;76;5
+Sistemas educativos comparados;674469;137137;76;5
+Comunicacion y educacion;582287;137137;76;5
+Problemas de la educacion argentina;856946;137137;76;3
+Taller de tesis ;934883;137137;76;3
+Historia Moderna y Contemporanea I;294376;137137;79;4
+Historia Argentina I;298249;137137;79;3
+Logica y Epistemologia de las Ciencias Sociales;864346;137137;79;6
+Introduccion a las Relaciones Internacionales;956824;137137;79;3
+Pensamiento Filosofico;286929;137137;79;5
+Historia Moderna y Contemporanea II;564872;137137;79;3
+Historia Argentina II;746357;137137;79;5
+Metodologia de la Investigacion en Ciencias Sociales;979398;137137;79;4
+Filosofia Moderna y Contemporanea;349288;137137;79;3
+Economia Politica I;443869;137137;79;3
+Teoria de las Relaciones Internacionales I;745435;137137;79;5
+Economia Politica II;328284;137137;79;5
+Sistematica de la Ciencia Politica;522699;137137;79;5
+Metodos y Tecnicas de Investigacion Aplicados ;423689;137137;79;3
+Politica Internacional Contemporanea;493748;137137;79;3
+Historia de las Relaciones Internacionales y Perspectivas Analiticas I;549742;137137;79;4
+Teoria Politica I;775498;137137;79;6
+Economia Politica Internacional I;258224;137137;79;3
+Teoria de las Relaciones Internacionales II;965272;137137;79;4
+Diseno y Formulacion de Modelos Prospectivos y de Investigacion;532639;137137;79;4
+Economia Politica Internacional II;762765;137137;79;6
+Historia de las Relaciones Internacionales y Perspectivas Analiticas II;966445;137137;79;4
+Teoria Politica II;667472;137137;79;4
+Politica Exterior Argentina;449963;137137;79;5
+Historia de las Relaciones Internacionales Latinoamericanas;964826;137137;79;5
+Instituciones Internacionales;497325;137137;79;6
+Agenda Internacional;295742;137137;79;6
+Sistemas Politicos Comparados;558544;137137;79;6
+Politica Internacional y Derechos Humanos;557673;137137;79;4
+Teoria de las Relaciones Internacionales III;826779;137137;79;4
+Procesos de Integracion Americanos;353453;137137;79;4
+Seminario de Elaboracion de Trabajo Final I;336275;137137;79;5
+Mencion en Asuntos Latinoamericanos;579285;137137;79;5
+Sistemas Politicos Latinoamericanos Comparados;935752;137137;79;3
+Politicas Exteriores Latinoamericanas Comparadas;429653;137137;79;4
+Politica Domestica y Externa Brasilena;766743;137137;79;3
+Mencion en Procesos de Integracion y Relaciones Comerciales Internacionales;595727;137137;79;5
+Teoria de la Integracion;396949;137137;79;3
+Economia Politica Internacional III;662796;137137;79;3
+Derecho de la Integracion;947682;137137;79;4
+Seminario de Elaboracion de Trabajo Final II;656484;137137;79;6
+Practica Pre-Profesional;264252;137137;79;6
+Cuatro Seminarios orientados a cada Mencion ;576748;137137;79;3
+Cultura y Salud;415165;127127;81;5
+Salud Publica I;138516;127127;81;4
+Quimica y Fisica Biologica;318388;127127;81;5
+Anatomo-Fisiologia;333670;127127;81;3
+Fundamentos de Enfermeria;844023;127127;81;4
+Educacion Permanente en Salud;662903;127127;81;5
+Psicologia;836216;127127;81;4
+Nutricion;533288;127127;81;5
+Microbiologia y Parasitologia;394954;127127;81;3
+Farmacologia y Toxicologia;210516;127127;81;4
+Enfermeria del Adulto y del Anciano I;307101;127127;81;4
+Enfermeria en Salud Mental;113234;127127;81;3
+Enfermeria en Salud Comunitaria;542770;127127;81;4
+Enfermeria Materno-Infantil II;792969;127127;81;5
+Enfermeria del Adulto y del Anciano II;127241;127127;81;5
+Problematicas Etico-legales de la Practica Profesional;479482;127127;81;5
+Psicologia Social e Institucional;143960;127127;81;4
+Enfermeria Pediatrica;330568;127127;81;5
+Gestion de las Organizaciones de Salud;128159;127127;81;5
+Metodologia de la Investigacion en Salud;249202;127127;81;5
+Practicas Integradas de Enfermeria;325391;127127;81;5
+Segundo Ciclo;880407;127127;81;5
+Epidemiologia;754612;127127;81;5
+Enfermeria del Adulto y del Anciano III;527074;127127;81;4
+Taller Integrador de Investigacion;631671;127127;81;3
+Educacion y Salud;856173;127127;81;4
+Salud Publica II;549826;127127;81;4

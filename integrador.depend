@@ -1,0 +1,182 @@
+# depslib dependency file v1.0
+1571008310 source:c:\users\gabriel padrevecchi\desktop\excer. in c\integrador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"funciones_procedimientos.h"
+	"universidad.h"
+	"departamento.h"
+	"carreras.h"
+	"materias.h"
+	"integrante.h"
+	"menu.h"
+
+1570673575 c:\users\gabriel padrevecchi\desktop\excer. in c\integrador\universidad.h
+
+1570947592 c:\users\gabriel padrevecchi\desktop\excer. in c\integrador\departamento.h
+
+1570948073 source:c:\users\gabriel padrevecchi\desktop\excer. in c\integrador\universidad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"funciones_procedimientos.h"
+	"universidad.h"
+
+1570989330 source:c:\users\gabriel padrevecchi\desktop\excer. in c\integrador\departamento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones_procedimientos.h"
+	"departamento.h"
+
+1570750377 c:\users\gabriel padrevecchi\desktop\excer. in c\integrador\funciones_procedimientos.h
+
+1570905500 source:c:\users\gabriel padrevecchi\desktop\excer. in c\integrador\funciones_procedimientos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones_procedimientos.h"
+
+1570947146 c:\users\gabriel padrevecchi\desktop\excer. in c\integrador\carreras.h
+
+1570947157 source:c:\users\gabriel padrevecchi\desktop\excer. in c\integrador\carreras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones_procedimientos.h"
+	"carreras.h"
+
+1570947245 c:\users\gabriel padrevecchi\desktop\excer. in c\integrador\materias.h
+
+1570947519 c:\users\gabriel padrevecchi\desktop\excer. in c\integrador\integrante.h
+
+1570947255 source:c:\users\gabriel padrevecchi\desktop\excer. in c\integrador\materias.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones_procedimientos.h"
+	"materias.h"
+
+1570947460 source:c:\users\gabriel padrevecchi\desktop\excer. in c\integrador\integrante.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones_procedimientos.h"
+	"integrante.h"
+
+1570988645 c:\users\gabriel padrevecchi\desktop\excer. in c\integrador\menu.h
+
+1570990042 source:c:\users\gabriel padrevecchi\desktop\excer. in c\integrador\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"funciones_procedimientos.h"
+	"universidad.h"
+	"departamento.h"
+	"carreras.h"
+	"materias.h"
+	"integrante.h"
+	"menu.h"
+
+1570518780 source:c:\users\gabriel padrevecchi\desktop\excer. in c\integrador\ffunctions.c
+
+1570518852 c:\users\gabriel padrevecchi\desktop\excer. in c\integrador\todos_los_headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"universidad.h"
+	"departamento.h"
+	"carreras.h"
+	"materias.h"
+	"integrante.h"
+	"menu.h"
+
+1570933522 source:c:\users\gabriel padrevecchi\desktop\excer. in c\integrador\materia.c
+
+1571279797 source:c:\users\gabriel padrevecchi\desktop\excer. in c\error_crashea_archivo_integrador\carreras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones_procedimientos.h"
+	"carreras.h"
+
+1570750377 c:\users\gabriel padrevecchi\desktop\excer. in c\error_crashea_archivo_integrador\funciones_procedimientos.h
+
+1571011797 c:\users\gabriel padrevecchi\desktop\excer. in c\error_crashea_archivo_integrador\carreras.h
+
+1571271526 source:c:\users\gabriel padrevecchi\desktop\excer. in c\error_crashea_archivo_integrador\departamento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones_procedimientos.h"
+	"departamento.h"
+
+1570947592 c:\users\gabriel padrevecchi\desktop\excer. in c\error_crashea_archivo_integrador\departamento.h
+
+1570905500 source:c:\users\gabriel padrevecchi\desktop\excer. in c\error_crashea_archivo_integrador\funciones_procedimientos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones_procedimientos.h"
+
+1571280198 source:c:\users\gabriel padrevecchi\desktop\excer. in c\error_crashea_archivo_integrador\integrante.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"funciones_procedimientos.h"
+	"integrante.h"
+
+1571092189 c:\users\gabriel padrevecchi\desktop\excer. in c\error_crashea_archivo_integrador\integrante.h
+
+1571285635 source:c:\users\gabriel padrevecchi\desktop\excer. in c\error_crashea_archivo_integrador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"funciones_procedimientos.h"
+	"universidad.h"
+	"departamento.h"
+	"carreras.h"
+	"materias.h"
+	"integrante.h"
+	"menu.h"
+
+1570673575 c:\users\gabriel padrevecchi\desktop\excer. in c\error_crashea_archivo_integrador\universidad.h
+
+1571027836 c:\users\gabriel padrevecchi\desktop\excer. in c\error_crashea_archivo_integrador\materias.h
+
+1571200955 c:\users\gabriel padrevecchi\desktop\excer. in c\error_crashea_archivo_integrador\menu.h
+
+1571287131 source:c:\users\gabriel padrevecchi\desktop\excer. in c\error_crashea_archivo_integrador\materias.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones_procedimientos.h"
+	"materias.h"
+
+1571287213 source:c:\users\gabriel padrevecchi\desktop\excer. in c\error_crashea_archivo_integrador\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"funciones_procedimientos.h"
+	"universidad.h"
+	"departamento.h"
+	"carreras.h"
+	"materias.h"
+	"integrante.h"
+	"menu.h"
+
+1570948073 source:c:\users\gabriel padrevecchi\desktop\excer. in c\error_crashea_archivo_integrador\universidad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"funciones_procedimientos.h"
+	"universidad.h"
+
